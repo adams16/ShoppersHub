@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "592758350000",
+    "firebase_url": "https://shoppershub-c058e.firebaseio.com",
+    "project_id": "shoppershub-c058e",
+    "storage_bucket": "shoppershub-c058e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592758350000:android:d08b045167d56c59",
+        "android_client_info": {
+          "package_name": "com.example.adams.shoppershub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592758350000-ngrbhd97hod6ldjl51gbev5c0nv9a6he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adams.shoppershub",
+            "certificate_hash": "6891d776dad258410301102a8d35160d177e9497"
+          }
+        },
+        {
+          "client_id": "592758350000-v0mhnbk7akf5uhrd6c94ro0fdi914up4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKeLVo9JbwlimMz9MmZeOEd3VrT14zlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592758350000-v0mhnbk7akf5uhrd6c94ro0fdi914up4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
